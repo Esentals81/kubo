@@ -35,3 +35,4 @@ We will ask early testers to participate at two points in the process:
 ## How to sign up?
 
 Simply submit a PR to this document by adding your project name and contact.
+https://github.com/TheRealPrideCoin/https-github.com-TheRealPrideCoin-quantumlayer-proof
